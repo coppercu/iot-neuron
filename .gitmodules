@@ -1,3 +1,6 @@
 [submodule "src/thirds/libemqtt"]
 	path = src/thirds/libemqtt
 	url = https://github.com/menudoproblema/libemqtt.git
+[submodule "src/arch/arm/mbed"]
+	path = src/arch/arm/mbed
+	url = https://github.com/mbedmicro/mbed.git
