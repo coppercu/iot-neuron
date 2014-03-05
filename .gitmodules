@@ -1,0 +1,3 @@
+[submodule "src/thirds/libemqtt"]
+	path = src/thirds/libemqtt
+	url = https://github.com/menudoproblema/libemqtt.git
