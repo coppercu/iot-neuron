@@ -4,3 +4,6 @@
 [submodule "src/osl/mbed/mbed"]
 	path = src/osl/mbed/mbed
 	url = https://github.com/mbedmicro/mbed.git
+[submodule "src/osl/rt-thread/rt-thread"]
+	path = src/osl/rt-thread/rt-thread
+	url = https://github.com/RT-Thread/rt-thread.git
